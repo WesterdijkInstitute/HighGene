@@ -75,5 +75,5 @@ In addition to a protein fasta file of the proteome of each species, the differe
 - Examples of all file format types can be found under the 'Examples' folder.
 
 ## Author
-Tim Verschuren
-[GitHub](https://github.com/TimVerschuren)[LinkedIn](https://www.linkedin.com/in/tim-verschuren-27082919b/)
+Tim Verschuren <br/>
+[GitHub](https://github.com/TimVerschuren) [LinkedIn](https://www.linkedin.com/in/tim-verschuren-27082919b/)
