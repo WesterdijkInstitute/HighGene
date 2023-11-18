@@ -73,3 +73,7 @@ In addition to a protein fasta file of the proteome of each species, the differe
 - When downloading protein fasta files from JGI's Mycocosm, the fasta headers will be formatted as: 'jgi|Species1|0000001|...'. HighGene requires this fasta header format. If a different header is present, change it to something that looks like JGI's format (e.g., abc|Species1).
 
 - Examples of all file format types can be found under the 'Examples' folder.
+
+## Author
+Tim Verschuren
+[GitHub](https://github.com/TimVerschuren)[LinkedIn](https://www.linkedin.com/in/tim-verschuren-27082919b/)
