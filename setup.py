@@ -25,7 +25,7 @@ setuptools.setup(
     python_requires=">=3.10",
     entry_points={
         "console_scripts": [
-            "highgene = src.cli:main",
+            "highgene = HighGene_src.cli:main",
         ]
     }
 )
